@@ -13,7 +13,7 @@ SQL BASICS
 	CONNECT USERNAME/PASSWORD;
 	Or
 	Type 
-
+hii
 CONNECT
 
 Then there will be prompt for username. Input the username. Then it will ask for password. But now if u type the password, it will not show the characters as oracle keeps it hidden. After inputting the password hit enter and see the system will be connected.
